@@ -1,0 +1,13 @@
+target/
+build/
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+project/.settings/
+
+# OS cruft
+.DS_Store
+
+gs-spring-boot/
